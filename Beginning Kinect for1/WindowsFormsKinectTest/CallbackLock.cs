@@ -2,7 +2,7 @@
 // <copyright file="CallbackLock.cs" company="Microsoft">
 //     Copyright (c) Microsoft Corporation.  All rights reserved.
 // </copyright>
-// Test
+// Test Branch
 // -----------------------------------------------------------------------
 
 namespace Microsoft.Kinect.Toolkit
