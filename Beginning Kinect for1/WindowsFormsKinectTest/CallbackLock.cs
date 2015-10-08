@@ -2,6 +2,7 @@
 // <copyright file="CallbackLock.cs" company="Microsoft">
 //     Copyright (c) Microsoft Corporation.  All rights reserved.
 // </copyright>
+// bababbaba
 // -----------------------------------------------------------------------
 
 namespace Microsoft.Kinect.Toolkit
