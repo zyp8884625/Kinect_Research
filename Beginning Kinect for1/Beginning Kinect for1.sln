@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsKinectTest", "WindowsFormsKinectTest\WindowsFormsKinectTest.csproj", "{44A5FF47-64B3-45F7-91D4-82DA02C6B1E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0FA397A8-5137-4776-8D1D-36A32A04F6A2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\APPDATA\LOCAL\MICROSOFT\BLEND\14.0\EXTENSIONS\GL3YWGJM.PVY\description.html = ..\..\..\..\APPDATA\LOCAL\MICROSOFT\BLEND\14.0\EXTENSIONS\GL3YWGJM.PVY\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A5FF47-64B3-45F7-91D4-82DA02C6B1E0}.Debug|x86.ActiveCfg = Debug|x86
+		{44A5FF47-64B3-45F7-91D4-82DA02C6B1E0}.Debug|x86.Build.0 = Debug|x86
+		{44A5FF47-64B3-45F7-91D4-82DA02C6B1E0}.Release|x86.ActiveCfg = Release|x86
+		{44A5FF47-64B3-45F7-91D4-82DA02C6B1E0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
